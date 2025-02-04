@@ -193,7 +193,7 @@ install_corepack_package_manager() {
         export COREPACK_INTEGRITY_KEYS='{
   "npm": [
     {
-      "expires": "2025-01-29T00:00:00.000Z",
+      "expires": null,
       "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
       "keytype": "ecdsa-sha2-nistp256",
       "scheme": "ecdsa-sha2-nistp256",
